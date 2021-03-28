@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Layout Dashboard Dimas Cahya Ramadhan</string>
+    <string name="to">Subject</string>
+    <string name="subject">subject</string>
+    <string name="messege">messege</string>
+    <string name="send">send</string>
+    <string name="reminder_name">reminder_name</string>
+    <string name="done">DONE</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string-array name="spinner_date">
+        <item>Wed, June 12 2012</item>
+    </string-array>
+
+    <string-array name="spinner_jam">
+        <item>08.00 AM</item>
+    </string-array>
+</resources>
